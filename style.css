@@ -27,7 +27,8 @@ h1{
     font-family: sans-serif;
 }
 .content{
-    
+    width:100px;
+    Height:260px;
     color: grey;
     font-style: normal;
     font-family: sans-serif;
